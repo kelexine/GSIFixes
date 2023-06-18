@@ -1,10 +1,10 @@
-## GSIFixes-Hot-11S
+## GSIFixes for Transsion Devices 
 
-This repository is a magisk module for Infinix HOT 11S to improve vendor and fix bugs of GSI Roms.
+This project was initially started by @SOUROVKHANNAHID as a magisk module for Infinix HOT 11S to improve vendor and fix bugs after flashing GSI Roms.
 
-Tested on infinix hot 11s (both NFC and non NFC).
+Tested on infinix hot 11s (both NFC and non NFC) | Tecno Spark 8 series and other some other Transsion devices with similar problems.
 
-Use it at your own risk.
+Although it has been tested on the above phones i still don't guarantee that it works for you so use it at your own risk.
 
 ## Current Fixes
 + Call volume
@@ -24,10 +24,8 @@ Thanks for using!
 ## Usage
 After flashing the module from magisk reboot and enjoy !
 ## Download
-[Releases](https://github.com/SOUROVKHANNAHID/GSIFixes-Hot-11S/releases/)
+[Releases](https://github.com/kelexine/GSIFixes/releases/)
 ## About Me
-[Click Here](https://linktr.ee/D3V1L.XH4N)
+[Click Here](https://github.com/kelexine/)
 
-[Subscribe](https://youtube.com/@SourovKhanNahid)
-
-[Buy Me A Coffee ☕](https://www.buymeacoffee.com/SourovKhanNahid)
+[Follow Me](https://github.com/kelexine/)
