@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "         Subscribe @SourovKhanNahid on YT        "
+  ui_print "   Follow Me @kelexine : github && XDA-Developers   "
   ui_print "*******************************"
 }
 
